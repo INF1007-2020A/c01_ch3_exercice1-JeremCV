@@ -1,9 +1,9 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-
+import math
 
 def square_root(number: int) -> float:
-    square_rooted=sqrt(float(number))
+    square_rooted=s(float(number))
     return square_rooted
 
 
