@@ -14,7 +14,7 @@ def square(number: int) -> int:
 
 def main() -> None:
     for i in range(25):
-        print(i,"":",""Square root: {square_root(i)}, square: {square(i)}")
+        print(i,"":"""Square root: {square_root(i)}, square: {square(i)}")
 
 
 if __name__ == '__main__':
