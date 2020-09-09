@@ -3,7 +3,7 @@
 
 
 def square_root(number: int) -> float:
-    
+    square_rooted
     return square_rooted
 
 
